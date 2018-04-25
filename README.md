@@ -1,6 +1,6 @@
 # test
 
-> test
+> 个人vue项目基本骨架配置，包含vuex vue-router element-ui axios 
 
 ## Build Setup
 
